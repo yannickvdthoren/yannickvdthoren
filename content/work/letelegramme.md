@@ -21,11 +21,8 @@ instagramURL: https://www.instagram.com/letelegramme/
 linkedin: company/letelegramme
 linkedinURL: https://www.linkedin.com/company/letelegramme/
 images:
-  [
-    { id: 0, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
-    { id: 1, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
-    { id: 2, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
-    { id: 3, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
+ [
+    
   ]
 color: red
 ---

@@ -18,10 +18,38 @@ instagram: colochousing
 instagramURL: https://www.instagram.com/colochousing/
 linkedin: company/colochousing
 linkedinURL: https://www.linkedin.com/company/colochousing/
-images: [ {id: 0, url: https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80, alt: "Keanu Reeves"}, 
-          {id: 1, url: https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80, alt: "Keanu Reeves"}, 
-          {id: 2, url: https://placekeanu.com/600/200, alt: "Keanu Reeves"}, 
-          {id: 3, url: https://placekeanu.com/600/200, alt: "Keanu Reeves"}
-        ]
+images:
+ [
+    {
+      id: 0,
+      url: /colochousing/colochousing-application.jpeg,
+      alt: 'The application screen of colochousing.',
+    },
+    {
+      id: 1,
+      url: /colochousing/colochousing-chat.jpeg,
+      alt: 'The chat mobile app',
+    },
+    {
+      id: 2,
+      url: /colochousing/colochousing-dashboard-2.jpeg,
+      alt: 'The owner dashboard of coloc housing.',
+    },
+    {
+      id: 3,
+      url: /colochousing/colochousing-room.jpeg,
+      alt: 'The screen presenting the room of coloc housing and your contract.',
+    },
+    {
+      id: 4,
+      url: /colochousing/colochousing-dashboard.jpeg,
+      alt: 'The owner dashboard of coloc housing.',
+    },
+    {
+      id: 4,
+      url: /colochousing/colochousing-search.jpeg,
+      alt: 'The search screen on mobile.',
+    },
+  ]
 color: cyan
 ---

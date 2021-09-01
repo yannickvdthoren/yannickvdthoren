@@ -69,7 +69,10 @@
         <ul>
           <li v-for="image in article.images" :key="image.id">
             <picture>
-              <img :src="image.url" :alt="image.alt" />
+              <img
+                :src="require(`~/assets/images${image.url}`)"
+                :alt="image.alt"
+              />
             </picture>
           </li>
         </ul>
@@ -152,7 +155,7 @@ a {
   gap: 16px;
 }
 .gallery li {
-  flex: 0 0 calc((100% - 16px) / 2);
+  flex: 0 0 calc((100% - 16px) / 2.3);
   scroll-snap-align: start;
 }
 .gallery picture {

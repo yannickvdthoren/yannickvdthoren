@@ -10,16 +10,16 @@ images:
   [
     {
       id: 0,
-      url: https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80,
-      alt: 'Keanu Reeves',
+      url: /qr-eats/qr-eats-menu.jpeg,
+      alt: 'The Menu of the restaurants in an app on mobile.',
     },
     {
       id: 1,
-      url: https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80,
-      alt: 'Keanu Reeves',
+      url: /qr-eats/qr-eats-account.jpeg,
+      alt: 'The screen to create an account of the Qr-Eats app.',
     },
-    { id: 2, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
-    { id: 3, url: https://placekeanu.com/600/200, alt: 'Keanu Reeves' },
+    { id: 2, url: /qr-eats/qr-eats-form.jpeg, alt: 'The sign up form in the QR-eats app' },
+    { id: 3, url: /qr-eats/qr-eats-search.jpeg, alt: 'The search screen' },
   ]
 color: green
 ---

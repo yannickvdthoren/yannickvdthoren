@@ -9,19 +9,19 @@
     </p>
     <ul class="social">
       <li>
-        <a href=""><Twitter /></a>
+        <a href="https://twitter.com/yannickvdthoren"><Twitter /></a>
       </li>
       <li>
-        <a href=""><Linkedin /></a>
+        <a href="https://www.linkedin.com/in/yannickvdthoren/"><Linkedin /></a>
       </li>
       <li>
-        <a href=""><Dribbble /></a>
+        <a href="https://dribbble.com/yannickvdthoren"><Dribbble /></a>
       </li>
       <li>
-        <a href=""><Pinterest /></a>
+        <a href="https://www.pinterest.fr/yannickvdthoren/"><Pinterest /></a>
       </li>
       <li>
-        <a href=""><Instagram /></a>
+        <a href="https://www.instagram.com/yannickvdthoren/"><Instagram /></a>
       </li>
     </ul>
   </footer>
@@ -41,5 +41,14 @@ export default {
 }
 .social svg {
   width: 16px;
+}
+@media (hover: hover) {
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+    color: var(--grey);
+  }
 }
 </style>
